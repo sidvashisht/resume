@@ -6,7 +6,7 @@
   padding-top: 5rem;
   padding-bottom: 15%;
   background-image: url("images/background-top.jpg");
-  min-height: 40rem;
+  min-height: 50rem;
   background-size: cover;
   background-repeat:no-repeat;
   color: #f7e8f6;
@@ -101,7 +101,7 @@
   line-height: 1.7;
   padding-left: 10%;
   padding-right: 10%;
-  font-size: 1.3rem;
+  font-size: 1.6rem;
 }
 /*  */
 /*  */
@@ -175,7 +175,7 @@
   font-size: 3rem;
   font-family: 'Pangolin';
   background-color: black;
-  width:30%;
+  width: 25rem;
   margin: auto;
 }
 .project-txt{
